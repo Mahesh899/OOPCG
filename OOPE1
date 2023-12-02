@@ -59,4 +59,3 @@ cout<<"\nThe multiplication is ";
 cout<<c4;
 return 0;
 }
-
