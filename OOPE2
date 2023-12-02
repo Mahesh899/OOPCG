@@ -97,3 +97,5 @@ delete(ptr[i]);
 cout<<"\nObjects deleted!" ;
 return 0;
 }
+
+
